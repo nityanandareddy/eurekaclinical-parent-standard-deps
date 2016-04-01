@@ -10,10 +10,10 @@
     <inceptionYear>2016</inceptionYear>
     <url>https://github.com/eurekaclinical/eurekaclinical-parent-standard-deps.git</url>
 
-		<parent>
+    <parent>
         <groupId>org.eurekaclinical</groupId>
         <artifactId>eurekaclinical-parent</artifactId>
-        <version>1-Alpha-14-SNAPSHOT</version>
+        <version>1-Alpha-14</version>
     </parent>
     
     <properties>
