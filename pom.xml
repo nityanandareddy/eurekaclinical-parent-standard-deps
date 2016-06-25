@@ -163,6 +163,7 @@
                 <groupId>org.jasig.cas.client</groupId>
                 <artifactId>cas-client-core</artifactId>
                 <version>${cas-client-version}</version>
+                <scope>provided</scope>
                 <exclusions>
                     <exclusion>
                         <groupId>javax.servlet</groupId>
