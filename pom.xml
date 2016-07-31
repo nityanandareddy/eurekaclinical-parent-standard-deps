@@ -37,6 +37,7 @@
         <javax.ws.rs-api-version>2.0.1</javax.ws.rs-api-version> <!-- javax.ws.rs API v2.0.1 -->
         <javax.inject-version>1</javax.inject-version> <!-- javax.inject API v1 -->
         <annotation-version>1.0</annotation-version> <!-- javax.annotations API v1 -->
+        <freemarker-version>2.3.23</freemarker-version>
         
         <!-- Release stage -->
         <eurekaclinical.stage>DEVELOPMENT</eurekaclinical.stage>
@@ -297,6 +298,11 @@
                 <artifactId>tomcat-catalina</artifactId>
                 <version>8.0.5</version>
                 <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.freemarker</groupId>
+                <artifactId>freemarker</artifactId>
+                <version>${freemarker-version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
