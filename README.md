@@ -6,7 +6,7 @@ It is the parent pom used by all Eureka! Clinical web applications. It has a fai
 * logging
 * utility libraries
 * delimited file handling
-* H2, PostgreSQL and Oracle JDBC driver versions
+* JDBC drivers
 * INI file handling
 * email handling
 * versions of standard APIs
