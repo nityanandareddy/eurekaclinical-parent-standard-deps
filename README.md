@@ -12,7 +12,7 @@ It is the parent pom used by all Eureka! Clinical web applications. It has a fai
 * versions of standard APIs
 * CAS client
 * REST API creation
-* dependendency injection
+* dependency injection
 * object-relational management
 * unit and system testing
 * database migration
