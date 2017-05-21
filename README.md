@@ -33,7 +33,7 @@ Use these versions of these dependencies in Eureka! Clinical projects for the fu
 ```
 
 ## Additional configuration
-Please read the `eurekaclinical-parent` project's README for instructions. The instructions for that project also apply to this one.
+Please read the [eurekaclinical-parent](https://github.com/eurekaclinical/eurekaclinical-parent) project's README for instructions. The instructions for that project also apply to this one.
 
 ## Getting help
 Feel free to contact us at help@eurekaclinical.org.
