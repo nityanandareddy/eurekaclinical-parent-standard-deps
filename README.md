@@ -1,5 +1,5 @@
-# eurekaclinical-parent-standard-deps
-[Atlanta Clinical and Translational Science Institute (ACTSI)](http://www.actsi.org), [Emory University](http://www.emory.edu), Atlanta, GA
+# Eureka! Clinical Web Application Parent pom.xml
+[Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
 
 # What does it do?
 It is the parent pom used by all Eureka! Clinical web applications. It specifies [eurekaclinical-parent](https://github.com/eurekaclinical/eurekaclinical-parent) as its parent pom. It has a fairly large dependencyManagement section with various dependencies that provide the following functionality:
