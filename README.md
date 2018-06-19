@@ -21,7 +21,15 @@ It is the parent pom used by all Eureka! Clinical web applications. It specifies
 Use these versions of these dependencies in Eureka! Clinical projects for the functionality listed above.
 
 ## Version history
+### Version 3
+Updated eurekaclinical-parent dependency.
+
+### Version 2
+Removed database driver dependencies. Updated versions of javamail, commons-logging, hibernate, jpamodelgen, jersey,
+slf4j, and freemarker. Updated eurekaclinical-parent dependency.
+
 ### Version 1
+Initial release.
 
 ## Specifying this pom as a parent
 ```
