@@ -8,12 +8,12 @@
     <name>Eureka! Clinical Parent with Standard Dependencies</name>
     <description>Parent pom.xml for all Eureka! Clinical projects with standard dependencies</description>
     <inceptionYear>2016</inceptionYear>
-    <url>https://github.com/eurekaclinical/eurekaclinical-parent-standard-deps.git</url>
+    <url>https://github.com/nityanandareddy/eurekaclinical-parent-standard-deps.git</url>
 
     <parent>
         <groupId>org.eurekaclinical</groupId>
         <artifactId>eurekaclinical-parent</artifactId>
-        <version>3</version>
+        <version>4-Alpha-1</version>
     </parent>
     
     <properties>
@@ -36,9 +36,9 @@
     </properties>
     
     <scm>
-        <connection>scm:git:https://github.com/eurekaclinical/eurekaclinical-parent-standard-deps.git</connection>
-        <developerConnection>scm:git:https://github.com/eurekaclinical/eurekaclinical-parent-standard-deps.git</developerConnection>
-        <url>https://github.com/eurekaclinical/eurekaclinical-parent-standard-deps.git</url>
+        <connection>scm:git:https://github.com/nityanandareddy/eurekaclinical-parent-standard-deps.git</connection>
+        <developerConnection>scm:git:https://github.com/nityanandareddy/eurekaclinical-parent-standard-deps.git</developerConnection>
+        <url>https://github.com/nityanandareddy/eurekaclinical-parent-standard-deps.git</url>
         <tag>HEAD</tag>
     </scm>
     
